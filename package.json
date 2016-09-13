@@ -1,0 +1,28 @@
+{
+  "name": "@mariusc23/env",
+  "version": "1.0.0",
+  "description": "Get environement variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariusc23/env.git"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "variables"
+  ],
+  "author": "Marius Craciunoiu <npm@m23.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariusc23/env/issues"
+  },
+  "homepage": "https://github.com/mariusc23/env#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
